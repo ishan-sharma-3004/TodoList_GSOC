@@ -1,0 +1,28 @@
+.task-content{
+    padding: 10px; 
+  position: relative;
+  transition: ease-in-out;
+  background-color: transparent; 
+  border: 0;
+  color: #fff;
+  font-size: 18px;
+  width: 300px;
+   
+}
+.task-content:focus{
+    outline: none;
+}
+.task-display{
+    display: flex;
+}
+.list {
+    color: #fff;
+    width: 300px;
+    margin: 20px auto;
+    height: 50px;
+    background-color: #bf07ac;
+    border-radius: 5px;
+  } 
+  .inter-reaction{
+      margin-top: 10px;
+  }
